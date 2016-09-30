@@ -91,7 +91,7 @@ Pod::Spec.new do |s|
 
   s.source_files  = 'BugshotLumberjack/*.{h,m}'
 
-  # s.public_header_files = "Classes/**/*.h"
+  s.public_header_files = "BugshotLumberjack/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
